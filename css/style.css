@@ -95,5 +95,52 @@ header {
 
 }
 
+/*SECTIONS*/
+
+/*FIRST*/
+.first {
+
+  background-color: white;
+
+}
+
+/*SECOND*/
+.second {
+
+  background-color: #d3d3d3;
+
+}
+
+/*REST OF SECTIONS*/
+.element {
+
+  display: flex;
+
+}
+
+.element main, .element aside {
+
+  min-height: 300px;
+  border: 1px dashed black;
+
+}
+
+.element main {
+
+  width: 67%;
+  background-color: #1e90ff;
+  
+}
+
+.element aside {
+
+  width: 33%;
+  background-color: #ffc0cb;
+
+}
+
+
+
+
 
 
