@@ -148,7 +148,27 @@ header {
 
 }
 
-/**/
+/*FOOTER*/
+
+footer {
+
+  background-color: #23272a;
+
+}
+
+footer .element main {
+
+  background-color: #f08080; 
+
+}
+
+footer .element aside {
+
+  background-color: #20b2aa;
+
+}
+
+
 
 
 
