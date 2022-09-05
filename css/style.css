@@ -11,6 +11,7 @@
 html {
 
   font-size: 62.5%; /*Per avere 10px in proporzione al font base (16px : 100% = 10px : x%)*/
+  
 
 }
 
@@ -53,6 +54,7 @@ header {
   display: flex;
   justify-content: space-between;
   background-color: #daa520;
+  font-size: 3rem;
 
 
 }
@@ -182,6 +184,7 @@ footer .element aside {
 
   background-color: #ffb6c1;
   border: 1px dashed black;
+  font-size: 3rem;
 
 
 }
