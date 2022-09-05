@@ -165,9 +165,26 @@ footer .element main {
 footer .element aside {
 
   background-color: #20b2aa;
+  border: 1px dashed white;
 
 }
 
+.bar {
+
+  
+  background-color: #7fffd4;
+  justify-content: space-between;
+  padding: 2em 0;
+
+}
+
+.bar .logo, .bar .button {
+
+  background-color: #ffb6c1;
+  border: 1px dashed black;
+
+
+}
 
 
 
