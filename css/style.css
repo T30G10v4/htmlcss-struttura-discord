@@ -11,7 +11,7 @@
 html {
 
   font-size: 62.5%; /*Per avere 10px in proporzione al font base (16px : 100% = 10px : x%)*/
-  font-family: Whitney, Arial, Helvetica, sans-serif;
+  font-family: 'Whitney', sans-serif;
 
 }
 
@@ -70,8 +70,9 @@ header {
 
   display: flex;
   justify-content: space-between;
-  background-color: #daa520;
+ /* background-color: #daa520;*/
   font-size: 3rem;
+  align-content: center;
 
 
 }
@@ -79,7 +80,7 @@ header {
 .navigation div {
 
   border: 1px dashed black;
-  width: 25%;
+  width: 8%;
 
 }
 
@@ -91,11 +92,37 @@ header {
 
 }
 
+#accedi {
+
+  font-size: 1.2rem;
+  
+
+}
+
+header .element {
+
+  justify-content: center;
+  gap: 2em;
+
+
+}
+
+header li {
+
+  list-style-type: none;
+  font-size: 2rem;
+  color: white;
+
+
+}
+
+/*
 .navigation .login {
 
   text-align: end;
 
 }
+*/
 
 /*JUMBOTRON*/
 
@@ -125,8 +152,8 @@ header {
 
 .jumbotron h1 {
   margin-top: 2em;
-  margin-bottom: 2em;
-  font-size: 4rem;
+  margin-bottom: 1em;
+  font-size: 6.5rem;
   
 }
 
