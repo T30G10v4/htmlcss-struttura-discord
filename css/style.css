@@ -223,15 +223,21 @@ header li {
 
 .element main {
 
-  width: 67%;
+  width: 55%;
   background-color: #1e90ff;
   
 }
 
 .element aside {
 
-  width: 33%;
+  width: 45%;
   background-color: #ffc0cb;
+
+}
+
+.first main, .third main {
+
+  text-align: end;
 
 }
 
