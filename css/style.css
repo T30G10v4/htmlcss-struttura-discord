@@ -78,3 +78,22 @@ header {
 
 }
 
+/*JUMBOTRON*/
+
+.jumbotron {
+
+  background-color: blue;
+
+}
+
+.jumbotron main {
+
+  min-height: 300px;
+  border: 1px dashed black;
+  background-color: #ee82ee;
+  margin: 0 12em;
+
+}
+
+
+
