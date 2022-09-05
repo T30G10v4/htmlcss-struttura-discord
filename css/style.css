@@ -247,6 +247,19 @@ header li {
   width: 100%;
   min-height: 600px;
   background-color: #228b22;
+  text-align: center;
+
+}
+
+#special .button
+{
+  display: inline-block;
+}
+
+#special h3 {
+
+  background-image: url("../img/stars.svg");
+  font-size: 6.5rem;
 
 }
 
