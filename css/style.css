@@ -139,6 +139,17 @@ header {
 
 }
 
+/*SPECIAL SECTION*/
+#special main {
+
+  width: 100%;
+  min-height: 600px;
+  background-color: #228b22;
+
+}
+
+/**/
+
 
 
 
